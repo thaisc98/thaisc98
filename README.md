@@ -67,4 +67,4 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-thaisc0098@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thaisc0098@gmail.com)](mailto:thaisc0098@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/thaisc98?label=follow&style=social)](https://github.com/thaisc98/)
 [![Youtube](https://img.shields.io/badge/thaisc98-red?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCx0AOv_6y_JRhu6Z_78dubg)
-[![Codewars](https://www.codewars.com/users/thaisc0098/badges/micro?theme=light)]
+![Codewars](https://www.codewars.com/users/thaisc0098/badges/micro?theme=light)
