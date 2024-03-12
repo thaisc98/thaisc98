@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=thaisc98&color=006bed)
 
 ## About me
-- 🌱 I’m currently learning **Kafka** and **AWS Lambda**.
+- 🌱 I’m currently doing a course of **Microservices in Spring Boot**.
 - ⚡ Fun fact is that I like a lot the meat. 🥩
 
 
