@@ -55,10 +55,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisc98&theme=prussian&hide_langs_below=1" />
 </a>
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=thaisc98&show_icons=true&theme=prussian&line_height=27" alt="**thaisc98** github stats"/>
-</a>
-
 <br/>
 
 ## 📫 How to reach me
