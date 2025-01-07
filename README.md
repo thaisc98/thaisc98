@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 ## About me
 - 🌱 I’m currently doing a course of **Completed React Developer** and **Microservices in Spring Boot**. (For the best practices)
-- ⚡ Fun fact is that I like a lot the meat. 🥩
-
 
 ## :running: Skills
 
