@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=thaisc98&color=006bed)
 
 ## About me
-- 🌱 I’m currently doing a course of **Completed React Developer** and **Microservices in Spring Boot**. (For the best practices)
+
+- Currently leveling up with AWS certifications.
+- Always learning—recently explored 3D projects with Three.js.
+- Passionate about tech and solving complex problems.
 
 ## :running: Skills
 
