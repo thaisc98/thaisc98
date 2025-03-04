@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 ## :running: Skills
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
+![Groovy](https://img.shields.io/badge/-Groovy-333333?style=flat&logo=ApacheGroovy)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=SpringBoot)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -39,8 +40,8 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
 ![Openshift](https://img.shields.io/badge/-Openshift-333333?style=flat&logo=redhat)
-![AWS Glue](https://img.shields.io/badge/-AWS_Glue-333333?style=flat&logo=amazonaws)
-![AWS S3](https://img.shields.io/badge/-AWS_S3-333333?style=flat&logo=amazonaws)
+![AWS Glue](https://img.shields.io/badge/-AWS_Glue-333333?style=flat&logo=amazon-web-services)
+![AWS S3](https://img.shields.io/badge/-AWS_S3-333333?style=flat&logo=amazon-web-services)
 
 
 ## 📊 Status
