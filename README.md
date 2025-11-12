@@ -40,6 +40,8 @@ Here are some ideas to get you started:
 ![Openshift](https://img.shields.io/badge/-Openshift-333333?style=flat&logo=redhat)
 ![AWS Glue](https://img.shields.io/badge/-AWS_Glue-333333?style=flat&logo=amazon-web-services)
 ![AWS S3](https://img.shields.io/badge/-AWS_S3-333333?style=flat&logo=amazon-web-services)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
 ## 📊 Status
