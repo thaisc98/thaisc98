@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 ## About me
 
-- Currently leveling up with AWS certifications.
-- Always learning—recently explored 3D projects with Three.js.
 - Passionate about tech and solving complex problems.
 
 ## :running: Skills
