@@ -31,14 +31,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
 
-
-## 📊 Status
-
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisc98&theme=prussian&hide_langs_below=1" />
-</a>
-<br/>
-
 ## 📫 How to reach me
 
 [![Linkedin](https://img.shields.io/badge/-thaisc98-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thais-contreras-49815714b/)](https://www.linkedin.com/in/thais-contreras-49815714b/) 
